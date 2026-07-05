@@ -1,7 +1,7 @@
 import telebot
 
 # তোমার Telegram Bot Token
-TOKEN = "8237707641:AAFncbjj7-ZuoUf33F2tjgawqV5zW4B47nA"
+TOKEN = "8237707641:AAFLUIzx7zQN4gUE3V5HWsVoEx0oGb4Ecgg"
 
 bot = telebot.TeleBot(TOKEN)
 
