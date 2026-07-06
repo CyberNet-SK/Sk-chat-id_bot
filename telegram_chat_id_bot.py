@@ -4,7 +4,7 @@ from flask import Flask
 import telebot
 
 # === Environment Variable থেকে Token নেওয়া হবে ===
-TOKEN = os.environ.get("BOT_TOKEN")
+TOKEN = os.environ.get("8237707641:AAFLUIzx7zQN4gUE3V5HWsVoEx0oGb4Ecgg")
 
 if not TOKEN:
     raise ValueError("BOT_TOKEN environment variable সেট করা হয়নি!")
